@@ -1,0 +1,21 @@
+[
+  {
+    "path": "/accounts",
+    "pathParameters": "id",
+    "method": "get",
+    "pathToHandler": "/api/accounts",
+    "handler": "getAccount"
+  },
+  {
+    "path": "/authentication/signup",
+    "method": "post",
+    "pathToHandler": "/api/authentication",
+    "handler": "signUp"
+  },
+  {
+    "path": "/authentication/login",
+    "method": "post",
+    "pathToHandler": "/api/authentication",
+    "handler": "login"
+  }
+]

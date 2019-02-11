@@ -1,0 +1,10 @@
+{
+  "expireDuration": 8035200,
+  "payload": {
+    "subject": "",
+    "exp": 0,
+    "name": "",
+    "email": "",
+    "issuer": "server"
+  }
+}
